@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ジェビ</h1>
 <h3 align="center">A little bit of everything</h3>
 
-- 🔭 I’m currently working on [MinimaList](https://github.com/HeunLi/todolist)
+- 🔭 I’m currently working on [MinimaList](https://github.com/HeunLi/MinimaList)
 
 - 🌱 I’m currently learning **Java**
 
